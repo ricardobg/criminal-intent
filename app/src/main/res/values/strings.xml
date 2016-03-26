@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">CriminalIntent</string>
     <string name="action_settings">Settings</string>
+
+    <string name="crime_title_hint">Digite um título para o crime.</string>
+    <string name="title_activity_test">Test</string>
 </resources>

@@ -14,7 +14,6 @@ public class Crime {
 
     private String title;
 
-
     public String getTitle() {
         return title;
     }
@@ -22,6 +21,8 @@ public class Crime {
     public void setTitle(String title) {
         this.title = title;
     }
+
+    private Data date;
 
     public Crime() {
         id = UUID.randomUUID();
